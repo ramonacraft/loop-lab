@@ -80,7 +80,7 @@ function App() {
             <span>Loop Lab Dashboard</span>
             <span aria-hidden="true">🔁</span>
           </p>
-          <span className="shell__env-chip">Local demo</span>
+          <span className="shell__env-chip">Public demo</span>
         </div>
       </nav>
 
