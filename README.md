@@ -2,8 +2,6 @@
 
 A tiny dashboard that **drafts a P0–P3 test plan** from a fake PR, **scores it against a golden**, retries with critic feedback, then **passes or escalates to a human** after 3 attempts.
 
-Interview one-liner: **I QA the agents that QA the release.**
-
 **Live demo:** https://loop-lab-loops.vercel.app/
 
 ## How the flow works

@@ -20,6 +20,7 @@ Tiny dashboard that drafts a test plan from a fake PR, scores it against a golde
 - Do not add passwordless / magic-link gated articles here. That is a separate public project.
 - Never commit `.env`, tokens, or employer/customer data
 - No employer, customer, or private personal details in code, README, or commits
+- Never use "Interview one-liner" or other pitch labels in public copy
 
 ## Scripts
 
@@ -30,5 +31,5 @@ Tiny dashboard that drafts a test plan from a fake PR, scores it against a golde
 
 ## Related docs
 
-- `README.md` — interview framing + quick start
+- `README.md` — product framing + quick start
 - `docs/PAPER_WALKTHROUGH.md` — login story on paper
